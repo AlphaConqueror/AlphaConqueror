@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Marc and I'm a software developer from 🇩🇪.</p>
+<p align="left">My name is Marc and I'm a software developer from :de:.</p>
 
 ###
 
@@ -111,7 +111,6 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=AlphaConqueror&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlphaConqueror&radius=16&theme=dracula&area=true&order=5&hide_title=false&hide_border=false" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
