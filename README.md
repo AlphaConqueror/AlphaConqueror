@@ -4,12 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AlphaConqueror&label=Profile views&color=0e75b6&style=flat" alt="AlphaConqueror" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AlphaConqueror" alt="AlphaConqueror" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/AlphaConqueror" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AlphaConqueror" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/alphaconqueror" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="alphaconqueror" height="30" width="40" /></a>
+<a href="https://discord.com/users/345370569316892674" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="users/345370569316892674" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
