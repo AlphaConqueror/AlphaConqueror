@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Marc and I'm a software developer from :de:.</p>
+<p align="left">My name is Marc and I'm a software developer from Germany :de:.</p>
 
 ###
 
